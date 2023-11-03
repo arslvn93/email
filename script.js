@@ -2543,7 +2543,7 @@ function loadTemplate(id) {
                                 "type": "image",
                                 "values": {
                                     "src": {
-                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1698964208954-531067.png",
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1698971048137-dan.png",
                                         "width": 500,
                                         "height": 500
                                     },
@@ -2700,7 +2700,7 @@ function loadTemplate(id) {
                                 "type": "image",
                                 "values": {
                                     "src": {
-                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1698964192832-376897.png",
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1698971042230-matt.png",
                                         "width": 401,
                                         "height": 401
                                     },
@@ -5519,7 +5519,7 @@ function loadTemplate(id) {
                             "type": "image",
                             "values": {
                                 "src": {
-                                    "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1698964208954-531067.png",
+                                    "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1698971048137-dan.png",
                                     "width": 500,
                                     "height": 500
                                 },
@@ -5676,7 +5676,7 @@ function loadTemplate(id) {
                             "type": "image",
                             "values": {
                                 "src": {
-                                    "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1698964192832-376897.png",
+                                    "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1698971042230-matt.png",
                                     "width": 401,
                                     "height": 401
                                 },
