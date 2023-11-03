@@ -2393,15 +2393,86 @@ function loadTemplate(id) {
                             "hideable": true
                         }
                     }, {
-                        "id": "icI9LBoWmr",
+                        "id": "RruAHoihl3",
                         "cells": [1],
                         "columns": [{
-                            "id": "owvo1FG8T3",
+                            "id": "D1qO2j6Z_W",
+                            "contents": [{
+                                "id": "_yjwZ2NmLr",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1698968854670-3.png",
+                                        "width": 1443,
+                                        "height": 1356
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_27",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }],
+                            "values": {
+                                "backgroundColor": "",
+                                "padding": "0px",
+                                "border": {},
+                                "borderRadius": "0px",
+                                "_meta": {
+                                    "htmlID": "u_column_59",
+                                    "htmlClassNames": "u_column"
+                                }
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px",
+                            "_meta": {
+                                "htmlID": "u_row_35",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true
+                        }
+                    }, {
+                        "id": "XCGwn-t5_p",
+                        "cells": [1],
+                        "columns": [{
+                            "id": "9LupLwneeB",
                             "contents": [{
                                 "id": "32exqtl4of",
                                 "type": "heading",
                                 "values": {
-                                    "containerPadding": "20px 10px 10px",
+                                    "containerPadding": "20px 10px",
                                     "anchor": "",
                                     "headingType": "h2",
                                     "fontSize": "38px",
@@ -2425,78 +2496,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "Get in Touch With a Pre Construction Expert Now"
-                                }
-                            }],
-                            "values": {
-                                "backgroundColor": "#4a3383",
-                                "padding": "0px",
-                                "border": {},
-                                "borderRadius": "0px",
-                                "_meta": {
-                                    "htmlID": "u_column_57",
-                                    "htmlClassNames": "u_column"
-                                }
-                            }
-                        }],
-                        "values": {
-                            "displayCondition": null,
-                            "columns": false,
-                            "backgroundColor": "",
-                            "columnsBackgroundColor": "",
-                            "backgroundImage": {
-                                "url": "",
-                                "fullWidth": true,
-                                "repeat": "no-repeat",
-                                "size": "custom",
-                                "position": "center"
-                            },
-                            "padding": "0px",
-                            "anchor": "",
-                            "_meta": {
-                                "htmlID": "u_row_33",
-                                "htmlClassNames": "u_row"
-                            },
-                            "selectable": true,
-                            "draggable": true,
-                            "duplicatable": true,
-                            "deletable": true,
-                            "hideable": true
-                        }
-                    }, {
-                        "id": "XCGwn-t5_p",
-                        "cells": [1],
-                        "columns": [{
-                            "id": "9LupLwneeB",
-                            "contents": [{
-                                "id": "UTKHUAJhA4",
-                                "type": "heading",
-                                "values": {
-                                    "containerPadding": "10px",
-                                    "anchor": "",
-                                    "headingType": "h2",
-                                    "fontSize": "38px",
-                                    "color": "#e5b466",
-                                    "textAlign": "center",
-                                    "lineHeight": "110%",
-                                    "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#0000ee",
-                                        "linkHoverColor": "#0000ee",
-                                        "linkUnderline": true,
-                                        "linkHoverUnderline": true
-                                    },
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_heading_6",
-                                        "htmlClassNames": "u_content_heading"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true,
-                                    "text": "sales@thecondocollection.ca"
+                                    "text": "<p>Get in Touch With a LakeVu3 Pre-Construction Expert Now</p>"
                                 }
                             }],
                             "values": {
@@ -2568,17 +2568,17 @@ function loadTemplate(id) {
                                     "selectable": true,
                                     "hideDesktop": false,
                                     "duplicatable": true,
-                                    "containerPadding": "30px 30px 0px",
+                                    "containerPadding": "0px 50px",
                                     "displayCondition": null
                                 }
                             }, {
                                 "id": "lTvCfd_WAL",
                                 "type": "text",
                                 "values": {
-                                    "containerPadding": "0px 10px",
+                                    "containerPadding": "0px 0px 0px 10px",
                                     "fontSize": "27px",
                                     "color": "#ffffff",
-                                    "textAlign": "center",
+                                    "textAlign": "left",
                                     "lineHeight": "140%",
                                     "linkStyle": {
                                         "inherit": true,
@@ -2597,16 +2597,16 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\">Daniel Foti</p>"
+                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 37.8px; color: #ffffff;\">Daniel Foti</span></strong></p>"
                                 }
                             }, {
                                 "id": "gzKmhT9zmC",
                                 "type": "text",
                                 "values": {
-                                    "containerPadding": "0px",
+                                    "containerPadding": "0px 0px 0px 10px",
                                     "fontSize": "12px",
-                                    "color": "#ffffff",
-                                    "textAlign": "center",
+                                    "color": "#e5b466",
+                                    "textAlign": "left",
                                     "lineHeight": "140%",
                                     "linkStyle": {
                                         "inherit": true,
@@ -2631,10 +2631,10 @@ function loadTemplate(id) {
                                 "id": "T4R7O3Vbal",
                                 "type": "text",
                                 "values": {
-                                    "containerPadding": "0px",
-                                    "fontSize": "16px",
+                                    "containerPadding": "0px 0px 0px 10px",
+                                    "fontSize": "12px",
                                     "color": "#ffffff",
-                                    "textAlign": "center",
+                                    "textAlign": "left",
                                     "lineHeight": "140%",
                                     "linkStyle": {
                                         "inherit": true,
@@ -2653,16 +2653,16 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\">D|G Realty Team</p>\n<p style=\"line-height: 140%;\"><strong>Re/Max Experts</strong></p>"
+                                    "text": "<p style=\"line-height: 140%;\">D|G Realty Team | <strong>Re/Max Experts</strong></p>"
                                 }
                             }, {
                                 "id": "mhjUM9z7-E",
                                 "type": "text",
                                 "values": {
-                                    "containerPadding": "0px",
+                                    "containerPadding": "0px 0px 0px 10px",
                                     "fontSize": "22px",
                                     "color": "#ffffff",
-                                    "textAlign": "center",
+                                    "textAlign": "left",
                                     "lineHeight": "140%",
                                     "linkStyle": {
                                         "inherit": true,
@@ -2725,17 +2725,17 @@ function loadTemplate(id) {
                                     "selectable": true,
                                     "hideDesktop": false,
                                     "duplicatable": true,
-                                    "containerPadding": "30px 30px 0px",
+                                    "containerPadding": "0px 50px",
                                     "displayCondition": null
                                 }
                             }, {
                                 "id": "T6eiaurWJQ",
                                 "type": "text",
                                 "values": {
-                                    "containerPadding": "0px 10px",
+                                    "containerPadding": "0px 10px 0px 0px",
                                     "fontSize": "27px",
                                     "color": "#ffffff",
-                                    "textAlign": "center",
+                                    "textAlign": "right",
                                     "lineHeight": "140%",
                                     "linkStyle": {
                                         "inherit": true,
@@ -2754,16 +2754,16 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\">Matthew Campoli, B.A.</p>"
+                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 37.8px; color: #ffffff;\">Matthew Campoli, B.A.</span></strong></p>"
                                 }
                             }, {
                                 "id": "y8BHFXtWYJ",
                                 "type": "text",
                                 "values": {
-                                    "containerPadding": "0px",
+                                    "containerPadding": "0px 10px 0px 0px",
                                     "fontSize": "12px",
-                                    "color": "#ffffff",
-                                    "textAlign": "center",
+                                    "color": "#e5b466",
+                                    "textAlign": "right",
                                     "lineHeight": "140%",
                                     "linkStyle": {
                                         "inherit": true,
@@ -2788,10 +2788,10 @@ function loadTemplate(id) {
                                 "id": "Binxp8s-dq",
                                 "type": "text",
                                 "values": {
-                                    "containerPadding": "0px",
-                                    "fontSize": "16px",
+                                    "containerPadding": "0px 10px 0px 0px",
+                                    "fontSize": "12px",
                                     "color": "#ffffff",
-                                    "textAlign": "center",
+                                    "textAlign": "right",
                                     "lineHeight": "140%",
                                     "linkStyle": {
                                         "inherit": true,
@@ -2810,16 +2810,16 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\">RSDNCY. Group</p>\n<p style=\"line-height: 140%;\">EXP Realty</p>"
+                                    "text": "<p style=\"line-height: 140%;\">RSDNCY. Group | EXP Realty</p>"
                                 }
                             }, {
                                 "id": "p2rQOd06eS",
                                 "type": "text",
                                 "values": {
-                                    "containerPadding": "0px",
+                                    "containerPadding": "0px 10px 0px 0px",
                                     "fontSize": "22px",
                                     "color": "#ffffff",
-                                    "textAlign": "center",
+                                    "textAlign": "right",
                                     "lineHeight": "140%",
                                     "linkStyle": {
                                         "inherit": true,
@@ -2878,6 +2878,80 @@ function loadTemplate(id) {
                             },
                             "displayCondition": null,
                             "columnsBackgroundColor": "#fff"
+                        }
+                    }, {
+                        "id": "1qw0d5DPQx",
+                        "cells": [1],
+                        "columns": [{
+                            "id": "eNLRY2LaO4",
+                            "contents": [{
+                                "id": "95qaIu4cHh",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "0px",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1698954673479-The%2BCollective-logos_main-gold+%282%29.png",
+                                        "width": 1921,
+                                        "height": 1081,
+                                        "maxWidth": "46%",
+                                        "autoWidth": false
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_31",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }],
+                            "values": {
+                                "backgroundColor": "#4a3383",
+                                "padding": "0px",
+                                "border": {},
+                                "borderRadius": "0px",
+                                "_meta": {
+                                    "htmlID": "u_column_63",
+                                    "htmlClassNames": "u_column"
+                                }
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px",
+                            "anchor": "",
+                            "_meta": {
+                                "htmlID": "u_row_37",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true
                         }
                     }],
                     "headers": [],
