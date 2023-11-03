@@ -2931,7 +2931,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 37.8px; color: #ffffff;\">Daniel Foti</span></strong></p>",
+                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 35px; color: #ffffff;\">Daniel Foti</span></strong></p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -3019,10 +3019,11 @@ function loadTemplate(id) {
                                     "textAlign": "left",
                                     "lineHeight": "140%",
                                     "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#0000ee",
+                                        "body": false,
+                                        "inherit": false,
+                                        "linkColor": "#ffffff",
+                                        "linkUnderline": false,
                                         "linkHoverColor": "#0000ee",
-                                        "linkUnderline": true,
                                         "linkHoverUnderline": true
                                     },
                                     "hideDesktop": false,
@@ -3036,7 +3037,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<div>647-628-3684</div>",
+                                    "text": "<div><a rel=\"noopener\" href=\"tel:16476918245\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoicGhvbmUiLCJhdHRycyI6eyJocmVmIjoidGVsOnt7cGhvbmV9fSJ9LCJ2YWx1ZXMiOnsicGhvbmUiOiIxNjQ3NjkxODI0NSJ9fQ==\">647-691-8245</a></div>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center",
@@ -3122,7 +3123,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 37.8px; color: #ffffff;\">Matthew Campoli, B.A.</span></strong></p>",
+                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 33.6px; color: #ffffff;\">Matthew Campoli, B.A.</span></strong></p>",
                                     "_override": {
                                         "mobile": {
                                             "fontSize": "25px",
@@ -3193,7 +3194,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\">RSDNCY. Group | EXP Realty</p>",
+                                    "text": "<p style=\"line-height: 140%;\">RSDNCY. Group | <strong>EXP Realty</strong></p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -3206,15 +3207,17 @@ function loadTemplate(id) {
                                 "values": {
                                     "containerPadding": "0px 10px 0px 0px",
                                     "anchor": "",
+                                    "fontWeight": 400,
                                     "fontSize": "22px",
                                     "color": "#ffffff",
                                     "textAlign": "right",
                                     "lineHeight": "140%",
                                     "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#0000ee",
+                                        "body": false,
+                                        "inherit": false,
+                                        "linkColor": "#ffffff",
+                                        "linkUnderline": false,
                                         "linkHoverColor": "#0000ee",
-                                        "linkUnderline": true,
                                         "linkHoverUnderline": true
                                     },
                                     "hideDesktop": false,
@@ -3228,7 +3231,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"> 416-371-5793</p>",
+                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"tel:16479322254\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoicGhvbmUiLCJhdHRycyI6eyJocmVmIjoidGVsOnt7cGhvbmV9fSJ9LCJ2YWx1ZXMiOnsicGhvbmUiOiIxNjQ3OTMyMjI1NCJ9fQ==\">647-932-2254</a></p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -3452,7 +3455,7 @@ function loadTemplate(id) {
             },
         );
       }
-
+      
     if (id == 2) {
         unlayer.loadDesign({
                 "body": {
@@ -6341,7 +6344,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 37.8px; color: #ffffff;\">Daniel Foti</span></strong></p>",
+                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 35px; color: #ffffff;\">Daniel Foti</span></strong></p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -6429,10 +6432,11 @@ function loadTemplate(id) {
                                     "textAlign": "left",
                                     "lineHeight": "140%",
                                     "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#0000ee",
+                                        "body": false,
+                                        "inherit": false,
+                                        "linkColor": "#ffffff",
+                                        "linkUnderline": false,
                                         "linkHoverColor": "#0000ee",
-                                        "linkUnderline": true,
                                         "linkHoverUnderline": true
                                     },
                                     "hideDesktop": false,
@@ -6446,7 +6450,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<div>647-628-3684</div>",
+                                    "text": "<div><a rel=\"noopener\" href=\"tel:16476918245\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoicGhvbmUiLCJhdHRycyI6eyJocmVmIjoidGVsOnt7cGhvbmV9fSJ9LCJ2YWx1ZXMiOnsicGhvbmUiOiIxNjQ3NjkxODI0NSJ9fQ==\">647-691-8245</a></div>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center",
@@ -6532,7 +6536,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 37.8px; color: #ffffff;\">Matthew Campoli, B.A.</span></strong></p>",
+                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 33.6px; color: #ffffff;\">Matthew Campoli, B.A.</span></strong></p>",
                                     "_override": {
                                         "mobile": {
                                             "fontSize": "25px",
@@ -6603,7 +6607,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\">RSDNCY. Group | EXP Realty</p>",
+                                    "text": "<p style=\"line-height: 140%;\">RSDNCY. Group | <strong>EXP Realty</strong></p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -6616,15 +6620,17 @@ function loadTemplate(id) {
                                 "values": {
                                     "containerPadding": "0px 10px 0px 0px",
                                     "anchor": "",
+                                    "fontWeight": 400,
                                     "fontSize": "22px",
                                     "color": "#ffffff",
                                     "textAlign": "right",
                                     "lineHeight": "140%",
                                     "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#0000ee",
+                                        "body": false,
+                                        "inherit": false,
+                                        "linkColor": "#ffffff",
+                                        "linkUnderline": false,
                                         "linkHoverColor": "#0000ee",
-                                        "linkUnderline": true,
                                         "linkHoverUnderline": true
                                     },
                                     "hideDesktop": false,
@@ -6638,7 +6644,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"> 416-371-5793</p>",
+                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"tel:16479322254\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoicGhvbmUiLCJhdHRycyI6eyJocmVmIjoidGVsOnt7cGhvbmV9fSJ9LCJ2YWx1ZXMiOnsicGhvbmUiOiIxNjQ3OTMyMjI1NCJ9fQ==\">647-932-2254</a></p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -6862,4 +6868,5 @@ function loadTemplate(id) {
             },
         );
       }
+
 }
