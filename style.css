@@ -1,9 +1,13 @@
+body {
+	background-color: #4A3383;
+}
+
 #editor {
   height: 100vh;
 }
 button {
-			color: #ffffff;
-			background-color: #373a3c;
+			color: #4A3383;
+			background-color: #E5B466;
 			font-size: 19px;
 			border: 4px solid #ffffff;
 			padding: 15px 30px;
@@ -11,7 +15,7 @@ button {
 			cursor: pointer
 		}
 		button:hover {
-			color: #373a3c;
+			color: #E5B466;
 			background-color: #ffffff;
 		}
 
