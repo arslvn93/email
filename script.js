@@ -254,7 +254,13 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 23.8px; color: #e5b466;\">IN <strong>BARRIE, ONTARIO</strong></span></p>"
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 21px; color: #e5b466;\"><strong>IN BARRIE, ONTARIO</strong></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "fontSize": "15px",
+                                            "containerPadding": "0px 10px 15px"
+                                        }
+                                    }
                                 }
                             }],
                             "values": {
@@ -342,7 +348,7 @@ function loadTemplate(id) {
                                     },
                                     "fontWeight": 400,
                                     "fontSize": "22px",
-                                    "color": "#fff",
+                                    "color": "#4a3383",
                                     "textAlign": "left",
                                     "lineHeight": "140%",
                                     "linkStyle": {
@@ -363,8 +369,13 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><span style=\"color: #4a3383; line-height: 30.8px;\"><strong>Starting From</strong></span></p>",
-                                    "hideMobile": false
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 30.8px;\"><strong>Starting From</strong></span></p>",
+                                    "hideMobile": false,
+                                    "_override": {
+                                        "mobile": {
+                                            "fontSize": "18px"
+                                        }
+                                    }
                                 }
                             }, {
                                 "id": "_ZKe4sMCCH",
@@ -378,7 +389,7 @@ function loadTemplate(id) {
                                     },
                                     "fontWeight": 700,
                                     "fontSize": "51px",
-                                    "color": "#fff",
+                                    "color": "#4a3383",
                                     "textAlign": "left",
                                     "lineHeight": "140%",
                                     "linkStyle": {
@@ -399,8 +410,14 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><span style=\"color: #4a3383; line-height: 71.4px;\">$499,900</span></p>",
-                                    "hideMobile": false
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 71.4px;\">$499,900</span></p>",
+                                    "hideMobile": false,
+                                    "_override": {
+                                        "mobile": {
+                                            "color": "#4a3383",
+                                            "fontSize": "32px"
+                                        }
+                                    }
                                 }
                             }, {
                                 "id": "-hlcmENuBh",
@@ -1270,8 +1287,13 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"> </p>\n<h1 class=\"v-text-align v-font-size\" style=\"margin: 0px; line-height: 140%; text-align: center; word-wrap: break-word;\"><span style=\"color: #4a3383; line-height: 25.2px;\">VIP BROKER EVENT<strong> INCENTIVES</strong></span></h1>",
-                                    "hideMobile": false
+                                    "text": "<p style=\"line-height: 140%;\"> </p>\n<h1 class=\"v-text-align v-font-size\" style=\"margin: 0px; line-height: 140%; text-align: center; word-wrap: break-word;\"><span style=\"color: #4a3383; line-height: 26.6px;\">VIP BROKER EVENT<strong> INCENTIVES</strong></span></h1>",
+                                    "hideMobile": false,
+                                    "_override": {
+                                        "mobile": {
+                                            "fontSize": "26px"
+                                        }
+                                    }
                                 }
                             }],
                             "values": {
@@ -2650,13 +2672,13 @@ function loadTemplate(id) {
                                     "altText": "",
                                     "action": {
                                         "name": "web",
-                                        "attrs": {
-                                            "href": "{{href}}",
-                                            "target": "{{target}}"
-                                        },
                                         "values": {
                                             "href": "https://drive.google.com/file/d/1Ibyg1rpIQNvVjFGp8m55y7l771qQydcx/view?usp=sharing",
                                             "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
                                         }
                                     },
                                     "hideDesktop": false,
@@ -3019,12 +3041,12 @@ function loadTemplate(id) {
                                     "textAlign": "left",
                                     "lineHeight": "140%",
                                     "linkStyle": {
-                                        "body": false,
                                         "inherit": false,
                                         "linkColor": "#ffffff",
-                                        "linkUnderline": false,
                                         "linkHoverColor": "#0000ee",
-                                        "linkHoverUnderline": true
+                                        "linkUnderline": false,
+                                        "linkHoverUnderline": true,
+                                        "body": false
                                     },
                                     "hideDesktop": false,
                                     "displayCondition": null,
@@ -3037,7 +3059,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<div><a rel=\"noopener\" href=\"tel:16476918245\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoicGhvbmUiLCJhdHRycyI6eyJocmVmIjoidGVsOnt7cGhvbmV9fSJ9LCJ2YWx1ZXMiOnsicGhvbmUiOiIxNjQ3NjkxODI0NSJ9fQ==\">647-691-8245</a></div>",
+                                    "text": "<div><span style=\"color: #ffffff; line-height: 30.8px;\"><a rel=\"noopener\" href=\"tel:16476918245\" target=\"_blank\" style=\"color: #ffffff;\" data-u-link-value=\"eyJuYW1lIjoicGhvbmUiLCJhdHRycyI6eyJocmVmIjoidGVsOnt7cGhvbmV9fSJ9LCJ2YWx1ZXMiOnsicGhvbmUiOiIxNjQ3NjkxODI0NSJ9fQ==\">647-691-8245</a></span></div>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center",
@@ -3213,12 +3235,12 @@ function loadTemplate(id) {
                                     "textAlign": "right",
                                     "lineHeight": "140%",
                                     "linkStyle": {
-                                        "body": false,
                                         "inherit": false,
                                         "linkColor": "#ffffff",
-                                        "linkUnderline": false,
                                         "linkHoverColor": "#0000ee",
-                                        "linkHoverUnderline": true
+                                        "linkUnderline": false,
+                                        "linkHoverUnderline": true,
+                                        "body": false
                                     },
                                     "hideDesktop": false,
                                     "displayCondition": null,
@@ -3231,7 +3253,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"tel:16479322254\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoicGhvbmUiLCJhdHRycyI6eyJocmVmIjoidGVsOnt7cGhvbmV9fSJ9LCJ2YWx1ZXMiOnsicGhvbmUiOiIxNjQ3OTMyMjI1NCJ9fQ==\">647-932-2254</a></p>",
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"color: #ffffff; line-height: 30.8px;\"><a rel=\"noopener\" href=\"tel:16479322254\" target=\"_blank\" style=\"color: #ffffff;\" data-u-link-value=\"eyJuYW1lIjoicGhvbmUiLCJhdHRycyI6eyJocmVmIjoidGVsOnt7cGhvbmV9fSJ9LCJ2YWx1ZXMiOnsicGhvbmUiOiIxNjQ3OTMyMjI1NCJ9fQ==\">647-932-2254</a></span></p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -3402,11 +3424,11 @@ function loadTemplate(id) {
                         "contentVerticalAlign": "center",
                         "contentWidth": 600,
                         "fontFamily": {
-                            "label": "Montserrat",
-                            "value": "'Montserrat',sans-serif",
-                            "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-                            "weights": null,
-                            "defaultFont": true
+                            "label": "Tahoma",
+                            "value": "tahoma,arial,helvetica,sans-serif",
+                            "url": "",
+                            "defaultFont": true,
+                            "weights": null
                         },
                         "textColor": "#000000",
                         "popupBackgroundColor": "#FFFFFF",
