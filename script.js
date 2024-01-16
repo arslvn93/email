@@ -44,7 +44,7 @@ unlayer.addEventListener("design:updated", function (data) {
 
 function loadTemplate(id) {
     if (id == 1) {
-        unlayer.loadDesign({{
+        unlayer.loadDesign({
             "body": {
                 "id": "sLieBV_M2v",
                 "rows": [{
