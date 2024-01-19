@@ -16192,7 +16192,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 71.4px; background-color: #4a3383;\"> $899,900 </span></p>",
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 71.4px; background-color: #4a3383;\"> $999,900 </span></p>",
                                     "_override": {
                                         "mobile": {
                                             "color": "#ffffff",
@@ -16273,13 +16273,13 @@ function loadTemplate(id) {
                                     "altText": "",
                                     "action": {
                                         "name": "web",
-                                        "values": {
-                                            "href": "https://drive.google.com/drive/folders/1c_UTRf196RSNXGTDcY3DI6nVEJCIPGWi?usp=drive_link",
-                                            "target": "_blank"
-                                        },
                                         "attrs": {
                                             "href": "{{href}}",
                                             "target": "{{target}}"
+                                        },
+                                        "values": {
+                                            "href": "https://drive.google.com/drive/folders/1ysXuI6-uacWurKTunRbSmdJ44GUVcmnr?usp=drive_link",
+                                            "target": "_blank"
                                         }
                                     },
                                     "hideDesktop": false,
@@ -16321,7 +16321,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"https://drive.google.com/drive/folders/1c_UTRf196RSNXGTDcY3DI6nVEJCIPGWi?usp=drive_link\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFjX1VUUmYxOTZSU05YR1REY1kzREk2blZFSkNJUEdXaT91c3A9ZHJpdmVfbGluayIsInRhcmdldCI6Il9ibGFuayJ9fQ==\">Brochure</a></p>",
+                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"https://drive.google.com/drive/folders/1ysXuI6-uacWurKTunRbSmdJ44GUVcmnr?usp=drive_link\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzF5c1h1STYtdWFjV3VyS1R1blJiU21kSjQ0R1VWY21ucj91c3A9ZHJpdmVfbGluayIsInRhcmdldCI6Il9ibGFuayJ9fQ==\">Brochure</a></p>",
                                     "_override": {
                                         "mobile": {
                                             "containerPadding": "0px 10px 10px"
@@ -16372,13 +16372,13 @@ function loadTemplate(id) {
                                     "altText": "",
                                     "action": {
                                         "name": "web",
-                                        "values": {
-                                            "href": "https://drive.google.com/drive/folders/1MqYdpUmW8Z4ib2B_eMFT9ZIDboHZQxow?usp=drive_link",
-                                            "target": "_blank"
-                                        },
                                         "attrs": {
                                             "href": "{{href}}",
                                             "target": "{{target}}"
+                                        },
+                                        "values": {
+                                            "href": "https://drive.google.com/drive/folders/1b3oxXs5U1i5xQWKrPFCLk6PPx2lSfnaM?usp=drive_link",
+                                            "target": "_blank"
                                         }
                                     },
                                     "hideDesktop": false,
@@ -16420,7 +16420,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"https://drive.google.com/drive/folders/1MqYdpUmW8Z4ib2B_eMFT9ZIDboHZQxow?usp=drive_link\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFNcVlkcFVtVzhaNGliMkJfZU1GVDlaSURib0haUXhvdz91c3A9ZHJpdmVfbGluayIsInRhcmdldCI6Il9ibGFuayJ9fQ==\">Renderings</a></p>"
+                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"https://drive.google.com/drive/folders/1b3oxXs5U1i5xQWKrPFCLk6PPx2lSfnaM?usp=drive_link\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFiM294WHM1VTFpNXhRV0tyUEZDTGs2UFB4MmxTZm5hTT91c3A9ZHJpdmVfbGluayIsInRhcmdldCI6Il9ibGFuayJ9fQ==\">Renderings</a></p>"
                                 }
                             }],
                             "values": {
@@ -16463,13 +16463,13 @@ function loadTemplate(id) {
                                     "altText": "",
                                     "action": {
                                         "name": "web",
-                                        "values": {
-                                            "href": "https://drive.google.com/drive/folders/1cGqj57VUo7KEYl739hDa1FVty0cJbPpC?usp=drive_link",
-                                            "target": "_blank"
-                                        },
                                         "attrs": {
                                             "href": "{{href}}",
                                             "target": "{{target}}"
+                                        },
+                                        "values": {
+                                            "href": "https://drive.google.com/drive/folders/13IBMofx3MImjIX6uMFNDxMI1yX9zdtuL?usp=drive_link",
+                                            "target": "_blank"
                                         }
                                     },
                                     "hideDesktop": false,
@@ -16511,7 +16511,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"https://drive.google.com/drive/folders/1cGqj57VUo7KEYl739hDa1FVty0cJbPpC?usp=drive_link\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFjR3FqNTdWVW83S0VZbDczOWhEYTFGVnR5MGNKYlBwQz91c3A9ZHJpdmVfbGluayIsInRhcmdldCI6Il9ibGFuayJ9fQ==\">Price List</a></p>"
+                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"https://drive.google.com/drive/folders/13IBMofx3MImjIX6uMFNDxMI1yX9zdtuL?usp=drive_link\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzEzSUJNb2Z4M01JbWpJWDZ1TUZORHhNSTF5WDl6ZHR1TD91c3A9ZHJpdmVfbGluayIsInRhcmdldCI6Il9ibGFuayJ9fQ==\">Price List</a></p>"
                                 }
                             }],
                             "values": {
@@ -16554,13 +16554,13 @@ function loadTemplate(id) {
                                     "altText": "",
                                     "action": {
                                         "name": "web",
-                                        "values": {
-                                            "href": "https://drive.google.com/drive/folders/1-3gBYHgVsMWYIc4HZm0iHgDT4LITYqdr?usp=drive_link",
-                                            "target": "_blank"
-                                        },
                                         "attrs": {
                                             "href": "{{href}}",
                                             "target": "{{target}}"
+                                        },
+                                        "values": {
+                                            "href": "https://drive.google.com/drive/folders/1dvmWiCOOCzAkTaKXysNUzoV_6C8aSb2I?usp=drive_link",
+                                            "target": "_blank"
                                         }
                                     },
                                     "hideDesktop": false,
@@ -16602,7 +16602,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"https://drive.google.com/drive/folders/1-3gBYHgVsMWYIc4HZm0iHgDT4LITYqdr?usp=drive_link\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzEtM2dCWUhnVnNNV1lJYzRIWm0waUhnRFQ0TElUWXFkcj91c3A9ZHJpdmVfbGluayIsInRhcmdldCI6Il9ibGFuayJ9fQ==\">Floor Plans</a></p>",
+                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"https://drive.google.com/drive/folders/1dvmWiCOOCzAkTaKXysNUzoV_6C8aSb2I?usp=drive_link\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFkdm1XaUNPT0N6QWtUYUtYeXNOVXpvVl82QzhhU2IyST91c3A9ZHJpdmVfbGluayIsInRhcmdldCI6Il9ibGFuayJ9fQ==\">Floor Plans</a></p>",
                                     "_override": {
                                         "mobile": {
                                             "containerPadding": "10px"
@@ -16650,13 +16650,13 @@ function loadTemplate(id) {
                                     "altText": "",
                                     "action": {
                                         "name": "web",
-                                        "values": {
-                                            "href": "https://drive.google.com/drive/folders/1hcu77FRWIMgIe6rMNBas3Grl3vz6AbzX?usp=drive_link",
-                                            "target": "_blank"
-                                        },
                                         "attrs": {
                                             "href": "{{href}}",
                                             "target": "{{target}}"
+                                        },
+                                        "values": {
+                                            "href": "https://drive.google.com/drive/folders/1nJDZkS1kXf8aQShaDt_yVpw3jKjR0jsd?usp=drive_link",
+                                            "target": "_blank"
                                         }
                                     },
                                     "hideDesktop": false,
@@ -16698,7 +16698,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"https://drive.google.com/drive/folders/1hcu77FRWIMgIe6rMNBas3Grl3vz6AbzX?usp=drive_link\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFoY3U3N0ZSV0lNZ0llNnJNTkJhczNHcmwzdno2QWJ6WD91c3A9ZHJpdmVfbGluayIsInRhcmdldCI6Il9ibGFuayJ9fQ==\">All Assets</a></p>"
+                                    "text": "<p style=\"line-height: 140%;\"><a rel=\"noopener\" href=\"https://drive.google.com/drive/folders/1nJDZkS1kXf8aQShaDt_yVpw3jKjR0jsd?usp=drive_link\" target=\"_blank\" data-u-link-value=\"eyJuYW1lIjoid2ViIiwiYXR0cnMiOnsiaHJlZiI6Int7aHJlZn19IiwidGFyZ2V0Ijoie3t0YXJnZXR9fSJ9LCJ2YWx1ZXMiOnsiaHJlZiI6Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFuSkRaa1Mxa1hmOGFRU2hhRHRfeVZwdzNqS2pSMGpzZD91c3A9ZHJpdmVfbGluayIsInRhcmdldCI6Il9ibGFuayJ9fQ==\">All Assets</a></p>"
                                 }
                             }],
                             "values": {
@@ -17100,7 +17100,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 28px;\">Klienburg</span></strong></p>",
+                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 28px;\">Klienburg</span></strong></p>\n<p style=\"line-height: 140%;\"><em><span style=\"line-height: 28px;\">Kipling &amp; Teston Road</span></em></p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -17727,7 +17727,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\">Bridleridge Series<br />42' Singles</p>",
+                                    "text": "<p style=\"line-height: 140%;\">Bridleridge Series<br />Townhomes</p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -17769,7 +17769,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><span style=\"color: #236fa1; line-height: 19.6px;\">From <strong>$2.39M - $2.49M</strong></span></p>",
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"color: #236fa1; line-height: 22.4px;\">From <strong>$999k</strong></span></p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -17810,7 +17810,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<ul>\n<li style=\"line-height: 19.6px;\"><strong>3311 </strong>SQ.FT - <strong>3495</strong> SQ.FT</li>\n<li style=\"line-height: 19.6px;\">4 BEDROOMS, 3.5 BATHROOMS</li>\n</ul>"
+                                    "text": "<ul>\n<li style=\"line-height: 19.6px;\"><strong>1641 SqFt</strong></li>\n</ul>"
                                 }
                             }, {
                                 "id": "DNSJu-OT4i",
@@ -17820,13 +17820,13 @@ function loadTemplate(id) {
                                     "anchor": "",
                                     "href": {
                                         "name": "web",
-                                        "values": {
-                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
-                                            "target": "_blank"
-                                        },
                                         "attrs": {
                                             "href": "{{href}}",
                                             "target": "{{target}}"
+                                        },
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1VX7QzG5GavjpVuuNdJ-RlDOR56N7QdK_/view?usp=drive_link",
+                                            "target": "_blank"
                                         }
                                     },
                                     "buttonColors": {
@@ -17995,7 +17995,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\">Hillmont Series<br />45' Singles</p>",
+                                    "text": "<p style=\"line-height: 140%;\">Hillmont Series<br /><span style=\"text-decoration: underline; line-height: 29.4px;\">Ravine Lots</span></p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -18037,7 +18037,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><span style=\"color: #236fa1; line-height: 19.6px;\">From <strong>$2.45M - $2.58M</strong></span></p>",
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"color: #236fa1; line-height: 22.4px;\">From <strong>$1.26M - $1.39M</strong></span></p>",
                                     "_override": {
                                         "mobile": {
                                             "textAlign": "center"
@@ -18078,7 +18078,7 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<ul>\n<li style=\"line-height: 19.6px;\"><strong>3518</strong> SQ.FT - <strong>4141</strong> SQ.FT</li>\n<li style=\"line-height: 19.6px;\">4 BEDROOMS. 3.5 BATHROOMS PLANS</li>\n<li style=\"line-height: 19.6px;\">OPTIONAL ENSUITE IN MASTER BEDROOM</li>\n</ul>"
+                                    "text": "<ul>\n<li style=\"line-height: 19.6px;\"><strong>1949</strong> SQ.FT - <strong>2096 </strong>SQ.FT</li>\n<li style=\"line-height: 19.6px;\">ALL RAVINE LOTS</li>\n</ul>"
                                 }
                             }, {
                                 "id": "LSDzaJGnWB",
@@ -18088,13 +18088,13 @@ function loadTemplate(id) {
                                     "anchor": "",
                                     "href": {
                                         "name": "web",
-                                        "values": {
-                                            "href": "https://drive.google.com/file/d/1f4SyjhhSHtQYphosozHKfKVA0NxR2d0C/view?usp=drive_link",
-                                            "target": "_blank"
-                                        },
                                         "attrs": {
                                             "href": "{{href}}",
                                             "target": "{{target}}"
+                                        },
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1J73Zng7V_O--TLBY3p4MpobvN--NfK3n/view?usp=drive_link",
+                                            "target": "_blank"
                                         }
                                     },
                                     "buttonColors": {
@@ -18255,98 +18255,25 @@ function loadTemplate(id) {
                             "hideable": true
                         }
                     }, {
-                        "id": "tWjCMo_W-k",
+                        "id": "clcZ8WSzpb",
                         "cells": [1],
                         "columns": [{
-                            "id": "IvAr-oJCcf",
+                            "id": "0i5XVfGoAZ",
                             "contents": [{
-                                "id": "ABcYJpFKD8",
-                                "type": "text",
-                                "values": {
-                                    "containerPadding": "30px 30px 10px",
-                                    "anchor": "",
-                                    "fontSize": "27px",
-                                    "color": "#000",
-                                    "textAlign": "center",
-                                    "lineHeight": "140%",
-                                    "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#00e",
-                                        "linkHoverColor": "#00e",
-                                        "linkUnderline": true,
-                                        "linkHoverUnderline": true
-                                    },
-                                    "hideDesktop": false,
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_text_165",
-                                        "htmlClassNames": "u_content_text"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 28px; color: #4a3383;\">EXCLUSIVE LIMITED TIME BONUS PACKAGE <strong>VALUED AT OVER $100,000</strong> INCLUDES:</span></p>",
-                                    "_override": {
-                                        "mobile": {
-                                            "fontSize": "25px",
-                                            "containerPadding": "30px 10px 10px"
-                                        }
-                                    },
-                                    "hideMobile": false
-                                }
-                            }, {
-                                "id": "fYK5RBgRpO",
-                                "type": "text",
-                                "values": {
-                                    "containerPadding": "0px 0px 0px 30px",
-                                    "anchor": "",
-                                    "fontSize": "19px",
-                                    "textAlign": "left",
-                                    "lineHeight": "160%",
-                                    "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#00e",
-                                        "linkHoverColor": "#00e",
-                                        "linkUnderline": true,
-                                        "linkHoverUnderline": true
-                                    },
-                                    "hideDesktop": false,
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_text_168",
-                                        "htmlClassNames": "u_content_text"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true,
-                                    "text": "<ul>\n<li style=\"line-height: 30.4px;\">20 LED potlights with bulbs</li>\n<li style=\"line-height: 30.4px;\">Premium 24\"x24\" porcelain tile in select areas</li>\n<li style=\"line-height: 30.4px;\"><strong>Upgraded appliances: Wolf Gas Range, Sub-Zero Refrigerator, and more</strong></li>\n<li style=\"line-height: 30.4px;\">5\" engineered hardwood flooring with color options</li>\n<li style=\"line-height: 30.4px;\">Spray foam insulation in garage</li>\n<li style=\"line-height: 30.4px;\">Triple Pane Glass with Low E Argon Gas for windows</li>\n<li style=\"line-height: 30.4px;\"><strong>Upgraded Moen faucets</strong> and brushed nickel door levers</li>\n<li style=\"line-height: 30.4px;\">Garage door openers included</li>\n<li style=\"line-height: 30.4px;\">Enhanced bathroom vanities and stone countertops in secondary bathrooms</li>\n<li style=\"line-height: 30.4px;\"><strong>Heated floors</strong> in Primary Ensuite with temperature control</li>\n</ul>",
-                                    "_override": {
-                                        "mobile": {
-                                            "textAlign": "left",
-                                            "containerPadding": "10px 10px 10px 0px"
-                                        }
-                                    },
-                                    "hideMobile": false
-                                }
-                            }, {
-                                "id": "dd42O0ldYz",
+                                "id": "BFvLRA2dGh",
                                 "type": "button",
                                 "values": {
                                     "containerPadding": "10px",
                                     "anchor": "",
                                     "href": {
                                         "name": "web",
-                                        "values": {
-                                            "href": "https://drive.google.com/file/d/1Sb7cl16wwZMr-8R4BBvWBPAamt_rWr1Q/view?usp=drive_link",
-                                            "target": "_blank"
-                                        },
                                         "attrs": {
                                             "href": "{{href}}",
                                             "target": "{{target}}"
+                                        },
+                                        "values": {
+                                            "href": "https://drive.google.com/drive/folders/13IBMofx3MImjIX6uMFNDxMI1yX9zdtuL?usp=drive_link",
+                                            "target": "_blank"
                                         }
                                     },
                                     "buttonColors": {
@@ -18368,7 +18295,7 @@ function loadTemplate(id) {
                                     "hideDesktop": false,
                                     "displayCondition": null,
                                     "_meta": {
-                                        "htmlID": "u_content_button_6",
+                                        "htmlID": "u_content_button_9",
                                         "htmlClassNames": "u_content_button"
                                     },
                                     "selectable": true,
@@ -18376,14 +18303,14 @@ function loadTemplate(id) {
                                     "duplicatable": true,
                                     "deletable": true,
                                     "hideable": true,
-                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 24px;\"><strong><span style=\"line-height: 24px;\">VIEW BONUS PACKAGE PDF</span></strong></span>",
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 24px;\"><strong><span style=\"line-height: 24px;\">DOWNLOAD PRICE LIST</span></strong></span>",
                                     "_override": {
                                         "mobile": {
                                             "size": {
                                                 "width": "100%",
                                                 "autoWidth": false
                                             },
-                                            "padding": "5px 10px"
+                                            "padding": "5px 50px"
                                         }
                                     },
                                     "calculatedWidth": 465,
@@ -18392,24 +18319,24 @@ function loadTemplate(id) {
                             }],
                             "values": {
                                 "_meta": {
-                                    "htmlID": "u_column_186",
+                                    "htmlID": "u_column_185",
                                     "htmlClassNames": "u_column"
                                 },
                                 "border": {
-                                    "borderTopColor": "#4a3383",
+                                    "borderTopWidth": "10px",
                                     "borderTopStyle": "solid",
-                                    "borderTopWidth": "8px",
-                                    "borderLeftColor": "#4a3383",
+                                    "borderTopColor": "#4a3383",
+                                    "borderLeftWidth": "10px",
                                     "borderLeftStyle": "solid",
-                                    "borderLeftWidth": "8px",
-                                    "borderRightColor": "#4a3383",
+                                    "borderLeftColor": "#4a3383",
+                                    "borderRightWidth": "10px",
                                     "borderRightStyle": "solid",
-                                    "borderRightWidth": "8px",
-                                    "borderBottomColor": "#4a3383",
+                                    "borderRightColor": "#4a3383",
+                                    "borderBottomWidth": "10px",
                                     "borderBottomStyle": "solid",
-                                    "borderBottomWidth": "8px"
+                                    "borderBottomColor": "#4a3383"
                                 },
-                                "padding": "0px",
+                                "padding": "10px 0px",
                                 "backgroundColor": ""
                             }
                         }],
@@ -18430,7 +18357,7 @@ function loadTemplate(id) {
                             "anchor": "",
                             "hideDesktop": false,
                             "_meta": {
-                                "htmlID": "u_row_88",
+                                "htmlID": "u_row_87",
                                 "htmlClassNames": "u_row"
                             },
                             "selectable": true,
@@ -18514,387 +18441,6 @@ function loadTemplate(id) {
                             "duplicatable": true,
                             "deletable": true,
                             "hideable": true
-                        }
-                    }, {
-                        "id": "xdmFpMqF_S",
-                        "cells": [1],
-                        "columns": [{
-                            "id": "F-Nun1Ardt",
-                            "contents": [{
-                                "id": "NLA9FgBFEs",
-                                "type": "text",
-                                "values": {
-                                    "containerPadding": "10px",
-                                    "anchor": "",
-                                    "fontSize": "20px",
-                                    "color": "#4a3383",
-                                    "textAlign": "center",
-                                    "lineHeight": "140%",
-                                    "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#00e",
-                                        "linkHoverColor": "#00e",
-                                        "linkUnderline": true,
-                                        "linkHoverUnderline": true
-                                    },
-                                    "hideDesktop": false,
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_text_151",
-                                        "htmlClassNames": "u_content_text"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><strong>Deposit Structure</strong></p>",
-                                    "_override": {
-                                        "mobile": {
-                                            "textAlign": "center"
-                                        }
-                                    }
-                                }
-                            }, {
-                                "id": "0QcmnrrTD3",
-                                "type": "divider",
-                                "values": {
-                                    "width": "100%",
-                                    "border": {
-                                        "borderTopWidth": "2px",
-                                        "borderTopStyle": "solid",
-                                        "borderTopColor": "#4a3383"
-                                    },
-                                    "textAlign": "center",
-                                    "containerPadding": "10px",
-                                    "anchor": "",
-                                    "hideDesktop": false,
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_divider_17",
-                                        "htmlClassNames": "u_content_divider"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true
-                                }
-                            }],
-                            "values": {
-                                "_meta": {
-                                    "htmlID": "u_column_171",
-                                    "htmlClassNames": "u_column"
-                                },
-                                "border": {},
-                                "padding": "10px",
-                                "borderRadius": "0px",
-                                "backgroundColor": "#fff"
-                            }
-                        }],
-                        "values": {
-                            "displayCondition": null,
-                            "columns": false,
-                            "backgroundColor": "",
-                            "columnsBackgroundColor": "",
-                            "backgroundImage": {
-                                "url": "",
-                                "fullWidth": true,
-                                "repeat": "no-repeat",
-                                "size": "custom",
-                                "position": "top-center",
-                                "customPosition": ["50%", "0%"]
-                            },
-                            "padding": "0px",
-                            "anchor": "",
-                            "hideDesktop": false,
-                            "_meta": {
-                                "htmlID": "u_row_80",
-                                "htmlClassNames": "u_row"
-                            },
-                            "selectable": true,
-                            "draggable": true,
-                            "duplicatable": true,
-                            "deletable": true,
-                            "hideable": true
-                        }
-                    }, {
-                        "id": "fZCYPPOvOF",
-                        "cells": [1, 1, 1],
-                        "columns": [{
-                            "id": "Ukn2NLkCkA",
-                            "contents": [{
-                                "id": "kkuxjJ2k_3",
-                                "type": "text",
-                                "values": {
-                                    "containerPadding": "10px",
-                                    "anchor": "",
-                                    "fontSize": "14px",
-                                    "color": "#000",
-                                    "textAlign": "left",
-                                    "lineHeight": "140%",
-                                    "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#00e",
-                                        "linkHoverColor": "#00e",
-                                        "linkUnderline": true,
-                                        "linkHoverUnderline": true
-                                    },
-                                    "hideDesktop": false,
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_text_149",
-                                        "htmlClassNames": "u_content_text"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><strong>42’ Lots</strong></p>\n<p style=\"line-height: 140%;\"> </p>\n<p style=\"line-height: 140%;\">$50,000 WITH OFFER</p>\n<p style=\"line-height: 140%;\">$50,000 IN 30 DAYS</p>\n<p style=\"line-height: 140%;\">$50,000 IN 90 DAYS</p>\n<p style=\"line-height: 140%;\">$50,000 IN 180 DAYS</p>\n<p style=\"line-height: 140%;\">$25,000 IN 300 DAYS</p>\n<p style=\"line-height: 140%;\">$25,000 IN 360 DAYS</p>\n<p style=\"line-height: 140%;\"> </p>\n<p style=\"line-height: 140%;\">TOTAL: <strong><span style=\"line-height: 19.6px;\">$250,000</span></strong></p>",
-                                    "_override": {
-                                        "mobile": {
-                                            "fontSize": "18px",
-                                            "textAlign": "center"
-                                        }
-                                    }
-                                }
-                            }],
-                            "values": {
-                                "_meta": {
-                                    "htmlID": "u_column_168",
-                                    "htmlClassNames": "u_column"
-                                },
-                                "border": {},
-                                "padding": "0px",
-                                "borderRadius": "0px",
-                                "backgroundColor": "#fff"
-                            }
-                        }, {
-                            "id": "1bRKjkrUKR",
-                            "contents": [{
-                                "id": "PRQFrCWR2D",
-                                "type": "text",
-                                "values": {
-                                    "containerPadding": "10px",
-                                    "anchor": "",
-                                    "fontSize": "14px",
-                                    "color": "#000",
-                                    "textAlign": "left",
-                                    "lineHeight": "140%",
-                                    "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#00e",
-                                        "linkHoverColor": "#00e",
-                                        "linkUnderline": true,
-                                        "linkHoverUnderline": true
-                                    },
-                                    "hideDesktop": false,
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_text_145",
-                                        "htmlClassNames": "u_content_text"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><strong>42’ Lots</strong></p>\n<p style=\"line-height: 140%;\"> </p>\n<p style=\"line-height: 140%;\">$50,000 WITH OFFER</p>\n<p style=\"line-height: 140%;\">$50,000 IN 30 DAYS</p>\n<p style=\"line-height: 140%;\">$50,000 IN 90 DAYS</p>\n<p style=\"line-height: 140%;\">$50,000 IN 180 DAYS</p>\n<p style=\"line-height: 140%;\">$50,000 IN 300 DAYS</p>\n<p style=\"line-height: 140%;\">$25,000 IN 360 DAYS</p>\n<p style=\"line-height: 140%;\"> </p>\n<p style=\"line-height: 140%;\">TOTAL: <strong>$275,000</strong></p>",
-                                    "_override": {
-                                        "mobile": {
-                                            "fontSize": "18px",
-                                            "textAlign": "center"
-                                        }
-                                    }
-                                }
-                            }],
-                            "values": {
-                                "_meta": {
-                                    "htmlID": "u_column_169",
-                                    "htmlClassNames": "u_column"
-                                },
-                                "border": {},
-                                "padding": "0px",
-                                "borderRadius": "0px",
-                                "backgroundColor": "#fff"
-                            }
-                        }, {
-                            "id": "zpWkxEhf63",
-                            "contents": [{
-                                "id": "6Yeek_hzxK",
-                                "type": "text",
-                                "values": {
-                                    "containerPadding": "10px",
-                                    "anchor": "",
-                                    "fontSize": "14px",
-                                    "color": "#000",
-                                    "textAlign": "left",
-                                    "lineHeight": "140%",
-                                    "linkStyle": {
-                                        "inherit": true,
-                                        "linkColor": "#00e",
-                                        "linkHoverColor": "#00e",
-                                        "linkUnderline": true,
-                                        "linkHoverUnderline": true
-                                    },
-                                    "hideDesktop": false,
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_text_148",
-                                        "htmlClassNames": "u_content_text"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true,
-                                    "text": "<p style=\"line-height: 140%;\"><strong>50' Lots</strong></p>\n<p style=\"line-height: 140%;\"> </p>\n<p style=\"line-height: 140%;\">$50,000 WITH OFFER</p>\n<p style=\"line-height: 140%;\">$50,000 IN 30 DAYS</p>\n<p style=\"line-height: 140%;\">$50,000 IN 90 DAYS</p>\n<p style=\"line-height: 140%;\">$50,000 IN 180 DAYS</p>\n<p style=\"line-height: 140%;\">$50,000 IN 300 DAYS</p>\n<p style=\"line-height: 140%;\">$50,000 IN 360 DAYS</p>\n<p style=\"line-height: 140%;\"> </p>\n<p style=\"line-height: 140%;\">TOTAL: <strong>$300,000</strong></p>",
-                                    "_override": {
-                                        "mobile": {
-                                            "fontSize": "18px",
-                                            "textAlign": "center"
-                                        }
-                                    }
-                                }
-                            }],
-                            "values": {
-                                "_meta": {
-                                    "htmlID": "u_column_170",
-                                    "htmlClassNames": "u_column"
-                                },
-                                "border": {},
-                                "padding": "0px",
-                                "borderRadius": "0px",
-                                "backgroundColor": ""
-                            }
-                        }],
-                        "values": {
-                            "displayCondition": null,
-                            "columns": false,
-                            "backgroundColor": "",
-                            "columnsBackgroundColor": "",
-                            "backgroundImage": {
-                                "url": "",
-                                "fullWidth": true,
-                                "repeat": "no-repeat",
-                                "size": "custom",
-                                "position": "top-center",
-                                "customPosition": ["50%", "0%"]
-                            },
-                            "padding": "20px 0px",
-                            "anchor": "",
-                            "hideDesktop": false,
-                            "_meta": {
-                                "htmlID": "u_row_79",
-                                "htmlClassNames": "u_row"
-                            },
-                            "selectable": true,
-                            "draggable": true,
-                            "duplicatable": true,
-                            "deletable": true,
-                            "hideable": true
-                        }
-                    }, {
-                        "id": "clcZ8WSzpb",
-                        "cells": [1],
-                        "columns": [{
-                            "id": "0i5XVfGoAZ",
-                            "contents": [{
-                                "id": "BFvLRA2dGh",
-                                "type": "button",
-                                "values": {
-                                    "containerPadding": "10px",
-                                    "anchor": "",
-                                    "href": {
-                                        "name": "web",
-                                        "values": {
-                                            "href": "https://drive.google.com/file/d/18b2SohbAm7ONqTcqy9WmpKOwFPtJfkad/view?usp=drive_link",
-                                            "target": "_blank"
-                                        },
-                                        "attrs": {
-                                            "href": "{{href}}",
-                                            "target": "{{target}}"
-                                        }
-                                    },
-                                    "buttonColors": {
-                                        "color": "#ffffff",
-                                        "backgroundColor": "#4a3383",
-                                        "hoverColor": "#FFF",
-                                        "hoverBackgroundColor": "#3AAEE0"
-                                    },
-                                    "size": {
-                                        "autoWidth": false,
-                                        "width": "75%"
-                                    },
-                                    "fontSize": "20px",
-                                    "textAlign": "center",
-                                    "lineHeight": "120%",
-                                    "padding": "5px 60px",
-                                    "border": {},
-                                    "borderRadius": "4px",
-                                    "hideDesktop": false,
-                                    "displayCondition": null,
-                                    "_meta": {
-                                        "htmlID": "u_content_button_9",
-                                        "htmlClassNames": "u_content_button"
-                                    },
-                                    "selectable": true,
-                                    "draggable": true,
-                                    "duplicatable": true,
-                                    "deletable": true,
-                                    "hideable": true,
-                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 24px;\"><strong><span style=\"line-height: 24px;\">DOWNLOAD PRICE LIST</span></strong></span>",
-                                    "_override": {
-                                        "mobile": {
-                                            "size": {
-                                                "width": "100%",
-                                                "autoWidth": false
-                                            },
-                                            "padding": "5px 50px"
-                                        }
-                                    },
-                                    "calculatedWidth": 465,
-                                    "calculatedHeight": 54
-                                }
-                            }],
-                            "values": {
-                                "_meta": {
-                                    "htmlID": "u_column_185",
-                                    "htmlClassNames": "u_column"
-                                },
-                                "border": {},
-                                "padding": "10px 0px",
-                                "backgroundColor": ""
-                            }
-                        }],
-                        "values": {
-                            "displayCondition": null,
-                            "columns": false,
-                            "backgroundColor": "",
-                            "columnsBackgroundColor": "#fff",
-                            "backgroundImage": {
-                                "url": "",
-                                "fullWidth": true,
-                                "repeat": "no-repeat",
-                                "size": "custom",
-                                "position": "top-center",
-                                "customPosition": ["50%", "0%"]
-                            },
-                            "padding": "0px",
-                            "anchor": "",
-                            "hideDesktop": false,
-                            "_meta": {
-                                "htmlID": "u_row_87",
-                                "htmlClassNames": "u_row"
-                            },
-                            "selectable": true,
-                            "draggable": true,
-                            "duplicatable": true,
-                            "deletable": true,
-                            "hideable": true,
-                            "hideMobile": false,
-                            "noStackMobile": false
                         }
                     }, {
                         "id": "XCGwn-t5_p",
