@@ -28164,15 +28164,6 @@ function loadTemplate(id) {
 
     if (id == 9) {
         unlayer.loadDesign({
-            {
-                "counters": {
-                    "u_row": 24,
-                    "u_column": 46,
-                    "u_content_text": 67,
-                    "u_content_image": 22,
-                    "u_content_button": 22,
-                    "u_content_divider": 35
-                },
                 "body": {
                     "id": "cdH4PX4KVp",
                     "rows": [{
