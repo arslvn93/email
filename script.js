@@ -28162,4 +28162,6409 @@ function loadTemplate(id) {
         );
       }
 
+    if (id == 9) {
+        unlayer.loadDesign({
+            {
+                "counters": {
+                    "u_row": 24,
+                    "u_column": 46,
+                    "u_content_text": 67,
+                    "u_content_image": 22,
+                    "u_content_button": 22,
+                    "u_content_divider": 35
+                },
+                "body": {
+                    "id": "cdH4PX4KVp",
+                    "rows": [{
+                        "id": "uHAftADYzv",
+                        "cells": [1, 1],
+                        "columns": [{
+                            "id": "ndN5iH784x",
+                            "contents": [{
+                                "id": "m3A-6phFi_",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "36px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_1",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">Alister at Solterra</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "du6jTVf6Kl",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_2",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">Location: <strong>Guelph</strong></p>\n<p style=\"line-height: 160%;\">Type: <strong>Condo Townhouses</strong></p>\n<p style=\"line-height: 160%;\">Completion: <strong>2026 Winter</strong></p>\n<p style=\"line-height: 160%;\">Developer: <strong>Fusion Homes</strong></p>\n<p style=\"line-height: 160%;\"> </p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "left"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "05VYjvAxxu",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "center",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_1",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">GET FULL PACKAGE PDF</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 227,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_2",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#4a3383",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "10px",
+                                    "borderLeftColor": "#4a3383",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "10px",
+                                    "borderRightColor": "#4a3383",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "10px",
+                                    "borderBottomColor": "#4a3383",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "10px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": "#ffffff"
+                            }
+                        }, {
+                            "id": "BtTSrFw9W8",
+                            "contents": [{
+                                "id": "QOSaC1JmYR",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_1",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }, {
+                                "id": "L5W1ooEF5w",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1705095998442-Logo+-+White.jpg",
+                                        "width": 800,
+                                        "height": 546,
+                                        "id": 17495362,
+                                        "preview": {
+                                            "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700188028268-8+TEMPLE+Logo+Copper.png",
+                                            "width": 800,
+                                            "height": 116
+                                        },
+                                        "maxWidth": "71%",
+                                        "autoWidth": false
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": ""
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_1",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "src": {
+                                                "id": 17495362,
+                                                "preview": {
+                                                    "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700188028268-8+TEMPLE+Logo+Copper.png",
+                                                    "width": 800,
+                                                    "height": 116
+                                                },
+                                                "maxWidth": "66%",
+                                                "autoWidth": false
+                                            },
+                                            "hideMobile": true
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "SVyKfQzx8L",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "3px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffffff"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 100px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_3",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }, {
+                                "id": "Gi8aHKCp--",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "14px",
+                                    "color": "#ffffff",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_3",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong>TWO </strong>COLLECTIONS AVAILABLE:</p>"
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_3",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#4a3383",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "20px 0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_2",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true
+                        }
+                    }, {
+                        "id": "qQzw7dBpjJ",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "n2ySv4YUVs",
+                            "contents": [{
+                                "id": "bK770YDq5s",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706767844952-unnamed+%281%29.png",
+                                        "width": 400,
+                                        "height": 459
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_2",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_4",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "HQ0iLdzxBJ",
+                            "contents": [{
+                                "id": "bo_EI1aUXl",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_4",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "aZrziCCw6s",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_4",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">URBAN TOWNS</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "kDZByL9HXi",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_5",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 22.4px;\">1 - 2 Storey Stacked Townhouses</span></strong></p>\n<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\">From <span style=\"line-height: 22.4px;\"><strong>HIGH $500's - LOW $700's</strong></span></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "z1jbdfAYcn",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_6",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>3311 - 3495</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>4</strong></span></p>\n<p style=\"line-height: 160%;\">BATHS<span style=\"color: #000000; line-height: 24px;\">: <strong>3.5</strong></span><br />COMPLETION<span style=\"color: #000000; line-height: 24px;\">: <strong>2026</strong></span></p>"
+                                }
+                            }, {
+                                "id": "TOU2wVZSO8",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_2",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 4 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_5",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_3",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "hlzH9JIO06",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "3yCQHe3QdX",
+                            "contents": [{
+                                "id": "9xEVXwMrYR",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706767863192-unnamed+%282%29.png",
+                                        "width": 400,
+                                        "height": 432
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_22",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_45",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "-EndXAoRPN",
+                            "contents": [{
+                                "id": "h8CsGl0IsD",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_35",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "n-g0jHTbOb",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_65",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">CONTEMPORARY TOWNS</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "2_NCSnGWfQ",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_66",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 22.4px;\">3 Storey Townhouses</span></strong></p>\n<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\">From <span style=\"line-height: 22.4px;\"><strong>LOW $800's - MID $700's</strong></span></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "XbAKKYlk3n",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_67",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>3311 - 3495</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>4</strong></span></p>\n<p style=\"line-height: 160%;\">BATHS<span style=\"color: #000000; line-height: 24px;\">: <strong>3.5</strong></span><br />COMPLETION<span style=\"color: #000000; line-height: 24px;\">: <strong>2026</strong></span></p>"
+                                }
+                            }, {
+                                "id": "EhaIcaCz3t",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_22",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 4 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_46",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px 0px 40px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_24",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "ZxX3nQgv0p",
+                        "cells": [1, 1],
+                        "columns": [{
+                            "id": "tHzjB-112j",
+                            "contents": [{
+                                "id": "4t7kuzmTjL",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "36px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_59",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">Kings Calling</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "x7ZY2-usDt",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_60",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">Location: <strong>King City</strong></p>\n<p style=\"line-height: 160%;\">Type: <strong>Detached Houses</strong></p>\n<p style=\"line-height: 160%;\">Completion: <strong>2026 Winter</strong></p>\n<p style=\"line-height: 160%;\">Developer: <strong>Fusion Homes</strong></p>\n<p style=\"line-height: 160%;\"> </p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "left"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "CZ0aOD6t5R",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "center",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_20",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">GET FULL PACKAGE PDF</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 227,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_41",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#4a3383",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "10px",
+                                    "borderLeftColor": "#4a3383",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "10px",
+                                    "borderRightColor": "#4a3383",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "10px",
+                                    "borderBottomColor": "#4a3383",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "10px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": "#ffffff"
+                            }
+                        }, {
+                            "id": "URgYnvzGpK",
+                            "contents": [{
+                                "id": "wrGgNmgvfx",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_32",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }, {
+                                "id": "YxHYuIiKxQ",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1705093733472-kingscalling-logo-white.png",
+                                        "width": 400,
+                                        "height": 239,
+                                        "id": 17495362,
+                                        "preview": {
+                                            "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700188028268-8+TEMPLE+Logo+Copper.png",
+                                            "width": 800,
+                                            "height": 116
+                                        },
+                                        "maxWidth": "66%",
+                                        "autoWidth": false
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": ""
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_20",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "src": {
+                                                "id": 17495362,
+                                                "preview": {
+                                                    "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700188028268-8+TEMPLE+Logo+Copper.png",
+                                                    "width": 800,
+                                                    "height": 116
+                                                },
+                                                "maxWidth": "66%",
+                                                "autoWidth": false
+                                            },
+                                            "hideMobile": true
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "dptcLg5PpR",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "3px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffffff"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 100px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_33",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }, {
+                                "id": "0-PPGB-0d5",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "14px",
+                                    "color": "#ffffff",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_61",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong>THREE</strong> COLLECTIONS AVAILABLE:</p>"
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_42",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#4a3383",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "20px 0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_22",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "noStackMobile": false
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "hrV0-6zAaZ",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "nywarCJvT8",
+                            "contents": [{
+                                "id": "QSdrU2CgMq",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_28",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "d5f63Xk2au",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706768193250-1705192450976-GGSU-BR8A-36-IVY-BT36-3-FRONT.jpg",
+                                        "width": 524,
+                                        "height": 400
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_18",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_36",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "wBZ4JFBBoR",
+                            "contents": [{
+                                "id": "JTTAIgs1vX",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_29",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "itae-24AIH",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_53",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">36' Singles</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "sBrLvnCkyM",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_54",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\"><strong>Detached House</strong><br />From <span style=\"line-height: 22.4px;\"><strong>$1.27M - $1.38M</strong></span></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "Dyj_3LGZlu",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_55",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>1820 - 2840</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>4</strong></span></p>\n<p style=\"line-height: 160%;\">BATHS<span style=\"color: #000000; line-height: 24px;\">: <strong>3.5</strong></span><br />COMPLETION<span style=\"color: #000000; line-height: 24px;\">: <strong>2026</strong></span></p>\n<p style=\"line-height: 160%;\"><span style=\"color: #000000; line-height: 24px;\">OPTIONAL ENSUITE IN MASTER BEDROOM</span></p>"
+                                }
+                            }, {
+                                "id": "b5ImH518HD",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_18",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 4 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_37",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_19",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "uMtKm8oiaN",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "uIDVfYigpM",
+                            "contents": [{
+                                "id": "XWa5XsQVj8",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706767880770-unnamed.jpg",
+                                        "width": 434,
+                                        "height": 400
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_21",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_43",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "2WcxZjvHvc",
+                            "contents": [{
+                                "id": "8mOBNS-yTa",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_34",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "CHcH1hLFV5",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_62",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">42' Singles</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "v8EYTMiToQ",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_63",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\"><strong>Detached House</strong><br />From <strong>$2.39M - $2.49M</strong></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "cUnBzqkAFN",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_64",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>3311 - 3495</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>4</strong></span></p>\n<p style=\"line-height: 160%;\">BATHS<span style=\"color: #000000; line-height: 24px;\">: <strong>3.5</strong></span><br />COMPLETION<span style=\"color: #000000; line-height: 24px;\">: <strong>2026</strong></span></p>"
+                                }
+                            }, {
+                                "id": "Zg6UtTEFqr",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_21",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 4 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_44",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_23",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "W5rVpcZwGf",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "cp97v_pC-r",
+                            "contents": [{
+                                "id": "lM-1SIAu_j",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706767893646-unnamed+%281%29.jpg",
+                                        "width": 434,
+                                        "height": 400
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_3",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_6",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "1VIu0gZhHd",
+                            "contents": [{
+                                "id": "ZgwRTe_sod",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_5",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "siqxdzxR9L",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_7",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">45' Singles</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "P9LDYP9tni",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_8",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\"><strong>Detached House</strong><br />From <strong>$2.45M - $2.58M</strong></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "5sbdDGU-Ng",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_9",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>3518 - 4141</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>4</strong></span></p>\n<p style=\"line-height: 160%;\">BATHS<span style=\"color: #000000; line-height: 24px;\">: <strong>3.5</strong></span><br />COMPLETION<span style=\"color: #000000; line-height: 24px;\">: <strong>2026</strong></span></p>\n<p style=\"line-height: 160%;\"><span style=\"color: #000000; line-height: 24px;\">OPTIONAL ENSUITE IN MASTER BEDROOM</span></p>"
+                                }
+                            }, {
+                                "id": "Sr-0fWVDcA",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_3",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 4 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_7",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_4",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "R6myNM-uJl",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "sye-8vFIRb",
+                            "contents": [{
+                                "id": "9_bHEnxHee",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706767903211-unnamed+%282%29.jpg",
+                                        "width": 434,
+                                        "height": 400
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_4",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_8",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "au6bb2S90G",
+                            "contents": [{
+                                "id": "aEiGSatAZR",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_6",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "KJ-unZLPcJ",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_10",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">50' Singles</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "cMNiIW3ZtN",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_11",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\"><strong>Detached House</strong><br />From <strong>$2.52M - $3.07M</strong></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "Eqa1lS4Vxy",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_12",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>2806 - 5236</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>3,4,5</strong></span></p>\n<p style=\"line-height: 160%;\">OPTIONAL ELEVATORS</p>\n<p style=\"line-height: 160%;\">OPTIONAL ENSUITE IN MASTER BEDROOM</p>\n<p style=\"line-height: 160%;\">OPTIONAL CABANA</p>"
+                                }
+                            }, {
+                                "id": "NFFR8n-QM4",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_4",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 4 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_9",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px 0px 30px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_5",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "WN_CNTRdzR",
+                        "cells": [1, 1],
+                        "columns": [{
+                            "id": "qb9LT4BenR",
+                            "contents": [{
+                                "id": "kdZnQg2hnM",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "36px",
+                                    "color": "#e5b466",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_13",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">Eversley Estates</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "e219GWbIJ9",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#503e21",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_14",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">Location: <strong>King City</strong></p>\n<p style=\"line-height: 160%;\">Type: <strong>Detached Houses</strong></p>\n<p style=\"line-height: 160%;\">Completion: <strong>2026 Winter</strong></p>\n<p style=\"line-height: 160%;\">Developer: <strong>Fusion Homes</strong></p>\n<p style=\"line-height: 160%;\"> </p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "left"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "DHnFgrCYpd",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#503e21",
+                                        "backgroundColor": "#e5b466",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "center",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_5",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">GET FULL PACKAGE PDF</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 235,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_10",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#e5b466",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "10px",
+                                    "borderLeftColor": "#e5b466",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "10px",
+                                    "borderRightColor": "#e5b466",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "10px",
+                                    "borderBottomColor": "#e5b466",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "10px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": "#ffffff"
+                            }
+                        }, {
+                            "id": "KXtb_GXQpd",
+                            "contents": [{
+                                "id": "KP78VcRSrB",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_7",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }, {
+                                "id": "0jFim3hIFr",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700456929211-eversley-estates-logo_1.png",
+                                        "width": 640,
+                                        "height": 345,
+                                        "id": 17495362,
+                                        "preview": {
+                                            "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700188028268-8+TEMPLE+Logo+Copper.png",
+                                            "width": 800,
+                                            "height": 116
+                                        },
+                                        "maxWidth": "79%",
+                                        "autoWidth": false
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": ""
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_5",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "src": {
+                                                "id": 17495362,
+                                                "preview": {
+                                                    "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700188028268-8+TEMPLE+Logo+Copper.png",
+                                                    "width": 800,
+                                                    "height": 116
+                                                },
+                                                "maxWidth": "66%",
+                                                "autoWidth": false
+                                            },
+                                            "hideMobile": true
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "mJ6ctBG72R",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "3px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#503e21"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 100px 40px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_8",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }, {
+                                "id": "sw7TeNvXXc",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "14px",
+                                    "color": "#503e21",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_15",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong>TWO</strong> COLLECTIONS AVAILABLE:</p>"
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_11",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#e5b466",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "20px 0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_6",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true
+                        }
+                    }, {
+                        "id": "93xFFYLFyy",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "fih7xec-Mj",
+                            "contents": [{
+                                "id": "-KhmSL0GNy",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 0px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_9",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "M1Wq3nmBNW",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706767917071-unnamed+%283%29.jpg",
+                                        "width": 526,
+                                        "height": 400
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_6",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_12",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "BYu4GCnTdj",
+                            "contents": [{
+                                "id": "mJnUCBfhbo",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_17",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "zW7xCBSMCO",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "color": "#e5b466",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_16",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong><span style=\"line-height: 35px;\">The Eaton Collection</span></strong></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "N_bwcCjvji",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#503e21",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_17",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong>42' Lots, Detached Houses</strong></p>\n<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\">From <strong>$2.09M - $2.68M</strong></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "RAdLId-bHW",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_18",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>3311 - 3495</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>4</strong></span></p>\n<p style=\"line-height: 160%;\">BATHS<span style=\"color: #000000; line-height: 24px;\">: <strong>3.5</strong></span><br />COMPLETION<span style=\"color: #000000; line-height: 24px;\">: <strong>2026</strong></span></p>"
+                                }
+                            }, {
+                                "id": "IVEZUU854I",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#503e21",
+                                        "backgroundColor": "#e5b466",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_6",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 4 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_13",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_7",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "4UVtcjljnC",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "YFxVgLAxr5",
+                            "contents": [{
+                                "id": "Q03JPKZQDD",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706767927253-unnamed+%284%29.jpg",
+                                        "width": 526,
+                                        "height": 400
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_8",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_16",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "swc4acBxZ0",
+                            "contents": [{
+                                "id": "EI7uH61INa",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_11",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "rbcOcwVnno",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "color": "#e5b466",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_23",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">The Fairfield Collection</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "2dYG5dVJqz",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#503e21",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_24",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong>62' Lots, Detached Houses</strong></p>\n<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\">From <strong>$3.09M - $3.59M</strong></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "xSANR_GSy5",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_25",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>3311 - 3495</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>4</strong></span></p>\n<p style=\"line-height: 160%;\">BATHS<span style=\"color: #000000; line-height: 24px;\">: <strong>3.5</strong></span><br />COMPLETION<span style=\"color: #000000; line-height: 24px;\">: <strong>2026</strong></span></p>"
+                                }
+                            }, {
+                                "id": "PSv3F_nYnQ",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#503e21",
+                                        "backgroundColor": "#e5b466",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_8",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 4 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_17",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px 0px 40px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_9",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "udEkQX10Um",
+                        "cells": [1, 1],
+                        "columns": [{
+                            "id": "P_v0wpEPNv",
+                            "contents": [{
+                                "id": "gpATH0Hu_m",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "36px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_50",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">Summerlyn Village</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "QqdgXLN51Z",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_51",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">Location: <strong>Woodbridge</strong></p>\n<p style=\"line-height: 160%;\">Type: <strong>Freehold Townhouses</strong></p>\n<p style=\"line-height: 160%;\">Completion: <strong>2025 Summer</strong></p>\n<p style=\"line-height: 160%;\">Developer: <strong>Fusion Homes</strong></p>\n<p style=\"line-height: 160%;\"> </p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "left"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "gQQzZxRRnm",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "center",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_17",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">GET FULL PACKAGE PDF</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 227,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_34",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#4a3383",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "10px",
+                                    "borderLeftColor": "#4a3383",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "10px",
+                                    "borderRightColor": "#4a3383",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "10px",
+                                    "borderBottomColor": "#4a3383",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "10px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": "#ffffff"
+                            }
+                        }, {
+                            "id": "p2d_cdjbzl",
+                            "contents": [{
+                                "id": "iGFtLmTXm8",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_26",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }, {
+                                "id": "y_1SyPfM7c",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706765659583-1705026938590-Logo+%281%29.png",
+                                        "width": 690,
+                                        "height": 362,
+                                        "id": 17495362,
+                                        "preview": {
+                                            "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700188028268-8+TEMPLE+Logo+Copper.png",
+                                            "width": 800,
+                                            "height": 116
+                                        },
+                                        "maxWidth": "84%",
+                                        "autoWidth": false
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": ""
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_17",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "src": {
+                                                "id": 17495362,
+                                                "preview": {
+                                                    "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700188028268-8+TEMPLE+Logo+Copper.png",
+                                                    "width": 800,
+                                                    "height": 116
+                                                },
+                                                "maxWidth": "66%",
+                                                "autoWidth": false
+                                            },
+                                            "hideMobile": true
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "Z2m08iTdDd",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "3px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffffff"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 100px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_27",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }, {
+                                "id": "10WGUDAmo9",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "14px",
+                                    "color": "#ffffff",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_52",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong>TWO</strong> COLLECTIONS AVAILABLE:</p>"
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_35",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#4a3383",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "20px 0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_18",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true
+                        }
+                    }, {
+                        "id": "EO2sh6vJWm",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "Bv1FhWa2EJ",
+                            "contents": [{
+                                "id": "LcnRCAWWth",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_15",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "yBvAWDxJoV",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706767937623-unnamed+%283%29.png",
+                                        "width": 667,
+                                        "height": 400,
+                                        "maxWidth": "100%",
+                                        "autoWidth": true
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_11",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_22",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "p59pVd96_U",
+                            "contents": [{
+                                "id": "V3j-NWRbMa",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_18",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "ypnUrcfGVe",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_32",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">20' 2 Storey Towns</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "4hEar0AEvC",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_33",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\"><strong>Freehold Townhouses</strong><br />From <strong>$1.2M - $1.4M</strong></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "8es-npVP9Y",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_34",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>1550 - 2240</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>3,4</strong></span></p>\n<p style=\"line-height: 160%;\">COMPLETION<span style=\"color: #000000; line-height: 24px;\">: <strong>2026</strong></span></p>\n<p style=\"line-height: 160%;\">WALK-OUT BASEMENTS</p>\n<p style=\"line-height: 160%;\"><strong>EXTRA DEEP LOTS</strong></p>"
+                                }
+                            }, {
+                                "id": "I0BL1eYvld",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_11",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 6 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_23",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_12",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "R7BvxbNe8f",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "TcC68-ZDx4",
+                            "contents": [{
+                                "id": "NEyAUGPgZR",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_16",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "5Eycuo0YUJ",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706767946147-unnamed+%284%29.png",
+                                        "width": 667,
+                                        "height": 400,
+                                        "maxWidth": "100%",
+                                        "autoWidth": true
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_12",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_24",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "FLghcNoJOJ",
+                            "contents": [{
+                                "id": "BimI19psJe",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_19",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "CiIeiIaUhU",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_35",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">20' 3 Storey Towns</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "miK_kDt0Rz",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_36",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\"><strong>Freehold Townhouses</strong><br />From <strong>$1.3M - $1.5M</strong></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "tciDffwDR5",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_37",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>1550 - 2240</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>3,4</strong></span></p>\n<p style=\"line-height: 160%;\">COMPLETION<span style=\"color: #000000; line-height: 24px;\">: <strong>2026</strong></span></p>\n<p style=\"line-height: 160%;\"><strong>BACKING ONTO FORESTED WOOD LOTS</strong></p>"
+                                }
+                            }, {
+                                "id": "hnccZ9LXFj",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_12",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 3 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_25",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px 0px 40px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_13",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "R547FfpyJy",
+                        "cells": [1, 1],
+                        "columns": [{
+                            "id": "ZCAmHY5HhM",
+                            "contents": [{
+                                "id": "sb9vHVwQ2U",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "36px",
+                                    "color": "#e5b466",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_38",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">McMichael Townhomes</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "IuA1-GptOf",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#503e21",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_39",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">Location: <strong>Kleinburg</strong></p>\n<p style=\"line-height: 160%;\">Type: <strong>Freehold Townhouses</strong></p>\n<p style=\"line-height: 160%;\">Completion: <strong>2026</strong></p>\n<p style=\"line-height: 160%;\">Developer: <strong>Fusion Homes</strong></p>\n<p style=\"line-height: 160%;\"> </p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "left"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "6LeawTgwFi",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#503e21",
+                                        "backgroundColor": "#e5b466",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "center",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_13",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">GET FULL PACKAGE PDF</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 235,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_26",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#e5b466",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "10px",
+                                    "borderLeftColor": "#e5b466",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "10px",
+                                    "borderRightColor": "#e5b466",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "10px",
+                                    "borderBottomColor": "#e5b466",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "10px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": "#ffffff"
+                            }
+                        }, {
+                            "id": "fYPnMwB7oW",
+                            "contents": [{
+                                "id": "GrgP87fOJi",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_20",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }, {
+                                "id": "QGpTtoYRiE",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1705360336746-MM_TownhomeCollection_Logo.png",
+                                        "width": 800,
+                                        "height": 445,
+                                        "id": 17495362,
+                                        "preview": {
+                                            "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700188028268-8+TEMPLE+Logo+Copper.png",
+                                            "width": 800,
+                                            "height": 116
+                                        },
+                                        "maxWidth": "90%",
+                                        "autoWidth": false
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": ""
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_13",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "src": {
+                                                "id": 17495362,
+                                                "preview": {
+                                                    "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700188028268-8+TEMPLE+Logo+Copper.png",
+                                                    "width": 800,
+                                                    "height": 116
+                                                },
+                                                "maxWidth": "80%",
+                                                "autoWidth": false
+                                            },
+                                            "hideMobile": true
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "S1fi7kXQ5e",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "3px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#503e21"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 100px 40px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_21",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }, {
+                                "id": "H6LVAoV6qc",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "14px",
+                                    "color": "#503e21",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_40",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong>TWO</strong> COLLECTIONS AVAILABLE:</p>"
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_27",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#e5b466",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "20px 0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_14",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true
+                        }
+                    }, {
+                        "id": "oBQmUy226H",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "0b2q9Fr7XE",
+                            "contents": [{
+                                "id": "xC6YuIvBez",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706768157377-1705360921421-H2END-A1.jpg",
+                                        "width": 400,
+                                        "height": 560
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_14",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_28",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "FA8BjgrvdX",
+                            "contents": [{
+                                "id": "5r0qsCazmM",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 40px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_23",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "_iJxR_aE04",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "color": "#e5b466",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_41",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">Bridleridge Series</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "aqsetWeEYm",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#503e21",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_42",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong>Freehold Townhouses<br /></strong></p>\n<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\">From <strong>$1.29M - $1.39M</strong></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "bo3vle9PIg",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_43",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>3311 - 3495</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>4</strong></span></p>\n<p style=\"line-height: 160%;\">BATHS<span style=\"color: #000000; line-height: 24px;\">: <strong>3.5</strong></span><br />COMPLETION<span style=\"color: #000000; line-height: 24px;\">: <strong>2026<br />Ravine Lots<br /></strong></span></p>"
+                                }
+                            }, {
+                                "id": "RCLP2Tgc8s",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#503e21",
+                                        "backgroundColor": "#e5b466",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_14",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 4 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_29",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_15",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "ZYWUgt9-t-",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "yfZWu6gxrK",
+                            "contents": [{
+                                "id": "3AWAedI2m5",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706768176036-1705360928812-B3-C1.jpg",
+                                        "width": 400,
+                                        "height": 560
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_16",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_32",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "T3twwubCD4",
+                            "contents": [{
+                                "id": "JSTyImsyrI",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 40px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_25",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "z_jI4liceG",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "color": "#e5b466",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_47",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">Hillmont Series</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "Qj2_K6gy5a",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#503e21",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_48",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong>Freehold Townhouses<br /></strong></p>\n<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\">From <strong>$899k - $1.1M</strong></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "r03FSXq9ex",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_49",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>3311 - 3495</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>4</strong></span></p>\n<p style=\"line-height: 160%;\">BATHS<span style=\"color: #000000; line-height: 24px;\">: <strong>3.5</strong></span><br />COMPLETION<span style=\"color: #000000; line-height: 24px;\">: <strong>2026<br />Ravine Lots<br /></strong></span></p>"
+                                }
+                            }, {
+                                "id": "b9rKNrLFZq",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#503e21",
+                                        "backgroundColor": "#e5b466",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_16",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 4 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_33",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px 0px 20px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_17",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "Ve8Ezhg0nK",
+                        "cells": [49.01, 50.99],
+                        "columns": [{
+                            "id": "M8qbRLt4Nz",
+                            "contents": [{
+                                "id": "DmQMl9s7t7",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_30",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "adHFvvq2ZO",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "20px 10px 10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1706768217010-1705192432204-GGSU-BR8A-40-BLUEBELL-BT40-5-FRONT.jpg",
+                                        "width": 525,
+                                        "height": 400
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": "_blank"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_19",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "0px"
+                                        }
+                                    }
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_39",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#CCC",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "0px",
+                                    "borderLeftColor": "#CCC",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "0px",
+                                    "borderRightColor": "#CCC",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "0px",
+                                    "borderBottomColor": "#CCC",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "0px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }, {
+                            "id": "aKLsgaCOX1",
+                            "contents": [{
+                                "id": "g5jTnkefgf",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffdbdb"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 0px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_31",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "containerPadding": "10px 0px"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "eZeC2BMqRb",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "25px",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_56",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">40' Singles</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "d4obX7_zCy",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_57",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><span style=\"line-height: 22.4px;\"><strong>Detached House</strong><br />From <span style=\"line-height: 22.4px;\"><strong>$1.36M - $1.48M</strong></span></span></p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "aEFl4hUyDi",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "5px 10px 5px 25px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontSize": "15px",
+                                    "color": "#525252",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_58",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">SQFT<span style=\"color: #000000; line-height: 24px;\">: <strong>2175 - 3340</strong></span></p>\n<p style=\"line-height: 160%;\">BEDS<span style=\"color: #000000; line-height: 24px;\">: <strong>4</strong></span></p>\n<p style=\"line-height: 160%;\">BATHS<span style=\"color: #000000; line-height: 24px;\">: <strong>3.5</strong></span><br />COMPLETION<span style=\"color: #000000; line-height: 24px;\">: <strong>2026</strong></span></p>\n<p style=\"line-height: 160%;\"><span style=\"color: #000000; line-height: 24px;\">OPTIONAL ENSUITE IN MASTER BEDROOM</span></p>"
+                                }
+                            }, {
+                                "id": "LyNevsu61w",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "left",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_19",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">VIEW 4 FLOOR PLANS</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 220,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_40",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#ffffff",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "0px 0px 40px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_21",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true,
+                            "_override": {
+                                "mobile": {
+                                    "padding": "0px 0px 10px"
+                                }
+                            }
+                        }
+                    }, {
+                        "id": "0cq45cfU_f",
+                        "cells": [1, 1],
+                        "columns": [{
+                            "id": "28ENWKk73s",
+                            "contents": [{
+                                "id": "6Csh6W0QQH",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 700,
+                                    "fontSize": "36px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_26",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\">Woodend Place</p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "center"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "Q2GkcU4IPY",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "0px 10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "url": "",
+                                        "label": "Courier New",
+                                        "value": "courier new,courier",
+                                        "weights": null,
+                                        "defaultFont": true
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "16px",
+                                    "color": "#4a3383",
+                                    "textAlign": "left",
+                                    "lineHeight": "160%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_27",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 160%;\">Location: <strong>Woodbridge</strong></p>\n<p style=\"line-height: 160%;\">Type: <strong>Freehold Townhouses</strong></p>\n<p style=\"line-height: 160%;\">Completion: <strong>2025 Summer</strong></p>\n<p style=\"line-height: 160%;\">Developer: <strong>Fusion Homes</strong></p>\n<p style=\"line-height: 160%;\"> </p>",
+                                    "_override": {
+                                        "mobile": {
+                                            "textAlign": "left"
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "UdQMx61h1x",
+                                "type": "button",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "href": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "https://drive.google.com/file/d/1Jh2HSoAZ7Hn6GcLlxzcFquWHYFKgGULf/view?usp=drive_link",
+                                            "target": "_blank"
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "buttonColors": {
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#4a3383",
+                                        "hoverColor": "#FFF",
+                                        "hoverBackgroundColor": "#3AAEE0"
+                                    },
+                                    "size": {
+                                        "autoWidth": true,
+                                        "width": "100%"
+                                    },
+                                    "fontSize": "13px",
+                                    "textAlign": "center",
+                                    "lineHeight": "120%",
+                                    "padding": "5px",
+                                    "border": {},
+                                    "borderRadius": "10px",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_button_9",
+                                        "htmlClassNames": "u_content_button"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<span style=\"display: block; padding: 10px 25px; line-height: 15.6px;\"><strong><span style=\"line-height: 15.6px;\">GET FULL PACKAGE PDF</span></strong></span>",
+                                    "_override": {
+                                        "mobile": {
+                                            "size": {
+                                                "width": "100%",
+                                                "autoWidth": false
+                                            }
+                                        }
+                                    },
+                                    "calculatedWidth": 227,
+                                    "calculatedHeight": 46
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_18",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {
+                                    "borderTopColor": "#4a3383",
+                                    "borderTopStyle": "solid",
+                                    "borderTopWidth": "10px",
+                                    "borderLeftColor": "#4a3383",
+                                    "borderLeftStyle": "solid",
+                                    "borderLeftWidth": "10px",
+                                    "borderRightColor": "#4a3383",
+                                    "borderRightStyle": "solid",
+                                    "borderRightWidth": "10px",
+                                    "borderBottomColor": "#4a3383",
+                                    "borderBottomStyle": "solid",
+                                    "borderBottomWidth": "10px"
+                                },
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": "#ffffff"
+                            }
+                        }, {
+                            "id": "bOo5F8QDAb",
+                            "contents": [{
+                                "id": "hgs_WMla2D",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "0px",
+                                        "borderTopStyle": "solid",
+                                        "borderTopColor": "#BBBBBB"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 10px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_12",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }, {
+                                "id": "gjQcbaCjWf",
+                                "type": "image",
+                                "values": {
+                                    "containerPadding": "10px 0px",
+                                    "anchor": "",
+                                    "src": {
+                                        "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1705091470074-Logo.png",
+                                        "width": 738,
+                                        "height": 595,
+                                        "id": 17495362,
+                                        "preview": {
+                                            "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700188028268-8+TEMPLE+Logo+Copper.png",
+                                            "width": 800,
+                                            "height": 116
+                                        },
+                                        "maxWidth": "75%",
+                                        "autoWidth": false
+                                    },
+                                    "textAlign": "center",
+                                    "altText": "",
+                                    "action": {
+                                        "name": "web",
+                                        "values": {
+                                            "href": "",
+                                            "target": ""
+                                        },
+                                        "attrs": {
+                                            "href": "{{href}}",
+                                            "target": "{{target}}"
+                                        }
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_image_9",
+                                        "htmlClassNames": "u_content_image"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "_override": {
+                                        "mobile": {
+                                            "src": {
+                                                "id": 17495362,
+                                                "preview": {
+                                                    "url": "https://condocollection.s3.ca-central-1.amazonaws.com/1700188028268-8+TEMPLE+Logo+Copper.png",
+                                                    "width": 800,
+                                                    "height": 116
+                                                },
+                                                "maxWidth": "66%",
+                                                "autoWidth": false
+                                            },
+                                            "hideMobile": true
+                                        }
+                                    }
+                                }
+                            }, {
+                                "id": "M03edt9GKw",
+                                "type": "divider",
+                                "values": {
+                                    "width": "100%",
+                                    "border": {
+                                        "borderTopWidth": "3px",
+                                        "borderTopStyle": "dashed",
+                                        "borderTopColor": "#ffffff"
+                                    },
+                                    "textAlign": "center",
+                                    "containerPadding": "20px 100px 10px",
+                                    "anchor": "",
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_divider_13",
+                                        "htmlClassNames": "u_content_divider"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true
+                                }
+                            }, {
+                                "id": "0ODc_VsqH7",
+                                "type": "text",
+                                "values": {
+                                    "containerPadding": "10px",
+                                    "anchor": "",
+                                    "fontFamily": {
+                                        "label": "Global Font",
+                                        "value": "inherit"
+                                    },
+                                    "fontWeight": 400,
+                                    "fontSize": "14px",
+                                    "color": "#ffffff",
+                                    "textAlign": "center",
+                                    "lineHeight": "140%",
+                                    "linkStyle": {
+                                        "inherit": true,
+                                        "linkColor": "#0000ee",
+                                        "linkHoverColor": "#0000ee",
+                                        "linkUnderline": true,
+                                        "linkHoverUnderline": true
+                                    },
+                                    "hideDesktop": false,
+                                    "displayCondition": null,
+                                    "_meta": {
+                                        "htmlID": "u_content_text_28",
+                                        "htmlClassNames": "u_content_text"
+                                    },
+                                    "selectable": true,
+                                    "draggable": true,
+                                    "duplicatable": true,
+                                    "deletable": true,
+                                    "hideable": true,
+                                    "text": "<p style=\"line-height: 140%;\"><strong>TWO</strong> COLLECTIONS AVAILABLE:</p>"
+                                }
+                            }],
+                            "values": {
+                                "_meta": {
+                                    "htmlID": "u_column_19",
+                                    "htmlClassNames": "u_column"
+                                },
+                                "border": {},
+                                "padding": "0px",
+                                "borderRadius": "0px",
+                                "backgroundColor": ""
+                            }
+                        }],
+                        "values": {
+                            "displayCondition": null,
+                            "columns": false,
+                            "backgroundColor": "#4a3383",
+                            "columnsBackgroundColor": "",
+                            "backgroundImage": {
+                                "url": "",
+                                "fullWidth": true,
+                                "repeat": "no-repeat",
+                                "size": "custom",
+                                "position": "center"
+                            },
+                            "padding": "20px 0px",
+                            "anchor": "",
+                            "hideDesktop": false,
+                            "_meta": {
+                                "htmlID": "u_row_10",
+                                "htmlClassNames": "u_row"
+                            },
+                            "selectable": true,
+                            "draggable": true,
+                            "duplicatable": true,
+                            "deletable": true,
+                            "hideable": true
+                        }
+                    }],
+                    "headers": [],
+                    "footers": [],
+                    "values": {
+                        "popupPosition": "center",
+                        "popupWidth": "600px",
+                        "popupHeight": "auto",
+                        "borderRadius": "10px",
+                        "contentAlign": "center",
+                        "contentVerticalAlign": "center",
+                        "contentWidth": 800,
+                        "fontFamily": {
+                            "label": "Verdana",
+                            "value": "verdana,geneva",
+                            "url": "",
+                            "weights": null,
+                            "defaultFont": true
+                        },
+                        "textColor": "#000000",
+                        "popupBackgroundColor": "#FFFFFF",
+                        "popupBackgroundImage": {
+                            "url": "",
+                            "fullWidth": true,
+                            "repeat": "no-repeat",
+                            "size": "cover",
+                            "position": "center"
+                        },
+                        "popupOverlay_backgroundColor": "rgba(0, 0, 0, 0.1)",
+                        "popupCloseButton_position": "top-right",
+                        "popupCloseButton_backgroundColor": "#DDDDDD",
+                        "popupCloseButton_iconColor": "#000000",
+                        "popupCloseButton_borderRadius": "0px",
+                        "popupCloseButton_margin": "0px",
+                        "popupCloseButton_action": {
+                            "name": "close_popup",
+                            "attrs": {
+                                "onClick": "document.querySelector('.u-popup-container').style.display = 'none';"
+                            }
+                        },
+                        "backgroundColor": "transparent",
+                        "preheaderText": "",
+                        "linkStyle": {
+                            "body": true,
+                            "linkColor": "#4a3383",
+                            "linkHoverColor": "#0000ee",
+                            "linkUnderline": false,
+                            "linkHoverUnderline": true,
+                            "inherit": false
+                        },
+                        "backgroundImage": {
+                            "url": "",
+                            "fullWidth": true,
+                            "repeat": "no-repeat",
+                            "size": "custom",
+                            "position": "center"
+                        },
+                        "_meta": {
+                            "htmlID": "u_body",
+                            "htmlClassNames": "u_body"
+                        }
+                    }
+                },
+                "schemaVersion": 16
+            },
+        );
+      }
+
 }
